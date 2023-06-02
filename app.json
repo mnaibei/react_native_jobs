@@ -4,7 +4,7 @@
     "web": {
       "bundler": "metro"
     },
-    "name": "react_native_jobs",
-    "slug": "react_native_jobs"
+    "name": "my_job_board",
+    "slug": "my_job_board"
   }
 }
